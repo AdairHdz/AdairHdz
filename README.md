@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-My name is Adair Hernández, I'm from Mexico and I'm 20 y/o.
+My name is Adair Hernández, I'm from Mexico and I'm 21 y/o.
 Learning is one of my favorite activities and I'd like to become a web and mobile developer when I graduate.
 This account is for storing my school projects, but I'm planning on including some personal projects too.
+I'm interested in:
+- Go
+- Javascript
+- React.js
+- Flutter
 <!--
 **AdairHdz/AdairHdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
