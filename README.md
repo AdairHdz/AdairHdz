@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Adair Hernández, I'm from Mexico and I'm 22 y/o.
-I'm a web and mobile developer and I'm interested in:
+My name is Adair Hernández, I'm from Mexico and I'm 24 y/o.
+I'm a full-stack web developer and I'm interested in:
 - Go
-- Javascript (and Typescript)
-- React.js
+- React
+- Angular
 <!--
 **AdairHdz/AdairHdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
